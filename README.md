@@ -1,4 +1,4 @@
-# Pyspark tutorials
+# Pyspark tutorials on Rossmann Sales
 Tutorial on PySpark Transformations and MLIB
 
 Learn how to transform Data and apply Regression techniques using PySpark
